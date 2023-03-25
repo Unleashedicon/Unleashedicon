@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Kipkurui</h1>
-<h3 align="center">I am a passionate Blockchain developer from Kenya with a strong background in Solidity programming and web development. I am driven by the potential of blockchain technology to revolutionize industries and improve people's lives. I enjoy taking on complex challenges with a multidisciplinary approach, leveraging my technical and creative skills to find effective solutions. I am highly motivated, self-directed, and constantly on the lookout for new opportunities to contribute to the development of innovative blockchain solutions.</h3>
+<h5 align="left">I am a passionate Blockchain developer from Kenya with a strong background in Solidity programming and web development. I am driven by the potential of blockchain technology to revolutionize industries and improve people's lives. I enjoy taking on complex challenges with a multidisciplinary approach, leveraging my technical and creative skills to find effective solutions. I am highly motivated, self-directed, and constantly on the lookout for new opportunities to contribute to the development of innovative blockchain solutions.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unleashedicon&label=Profile%20views&color=0e75b6&style=flat" alt="unleashedicon" /> </p>
 
